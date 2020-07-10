@@ -1,4 +1,7 @@
-### Hi there 👋
+### Greetings my friend 👋
+- 🔭 I’m currently working on: research
+
+
 
 <!--
 **hsjharvey/hsjharvey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
