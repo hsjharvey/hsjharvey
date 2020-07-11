@@ -1,6 +1,6 @@
 ### Greetings my friend 👋
-- 🔭 I’m currently working on: research
-
+- 🔭 I’m currently working on: reinforcement learning; market microstructure;
+- 🌱 I’m currently learning: Golang; WebSocket
 
 
 <!--
