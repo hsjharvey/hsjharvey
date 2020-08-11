@@ -1,7 +1,7 @@
 ### Greetings my friend 👋
 - 🔭 I’m currently working on: reinforcement learning; market microstructure;
-- 🌱 I’m currently learning: <img alt="golang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />; 
-<img alt="golang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />; WebSocket
+- 🌱 I’m currently learning: <img alt="golang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />, 
+<img alt="golang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />, WebSocket
 
 <br />
 
@@ -21,7 +21,7 @@
 
 <br />
 
-### Stats
+### Stats:
 <img align="left" alt="harvey github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsjharvey&layout=compact&count_private=true&show_icons=true" />
 
 
