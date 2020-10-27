@@ -1,8 +1,6 @@
 ### Greetings my friend 👋
-- 🔭 I’m currently working on: reinforcement learning; market microstructure;
-- 🌱 I’m currently learning: <img alt="golang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />, 
-<img alt="golang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />, WebSocket
-
+- 🔭 I’m currently working on: reinforcement learning; efficient estimation; algorithmic trading;
+- 🌱 I'm currently learning: c++; golang;
 <br />
 
 ### Connect with me:
