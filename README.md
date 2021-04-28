@@ -1,6 +1,6 @@
 ### Greetings my friend 👋
 - 🔭 I’m currently working on: distributional reinforcement learning; efficient estimation; algorithmic trading;
-- 🌱 I'm currently learning: c++; golang;
+- 🌱 I'm currently learning: c#; golang;
 <br />
 
 ### Connect with me:
