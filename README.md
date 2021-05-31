@@ -1,6 +1,6 @@
 ### Greetings 👋
 - 🔭 I’m currently working on: distributional reinforcement learning; efficient estimation; algorithmic trading;
-- 🌱 I'm currently learning: C#, Go 🖥️; machine learning 🤖; blockchain system ₿; tennis 🎾
+- 🌱 I'm currently learning: C#, Go 🖥️; machine learning 🤖; blockchain ₿; tennis 🎾
 
 
 ### Connect with me 📫
