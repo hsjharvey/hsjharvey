@@ -12,9 +12,9 @@
 
 ### Stats 📈
 
-![Harvey's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hsjharvey&hide=html&layout=compact&show_icons=true&theme=default)
+![Harvey's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hsjharvey&hide=html&layout=compact&show_icons=true&theme=prussian)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hsjharvey&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hsjharvey&theme=prussian)
 
 </br>
 
