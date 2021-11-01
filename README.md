@@ -4,7 +4,7 @@
 
 
 ### Connect with me 📫
-<a href="https://hsjharvey.github.io/"><img align="left" alt="hsjharvey.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+<a href="https://www.harveyhuang.net/"><img align="left" alt="hsjharvey.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
 <a href="https://www.linkedin.com/in/harveyhuang/"><img align="left" alt="hsjharvey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 </br>
